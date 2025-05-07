@@ -47,6 +47,7 @@ This project aims to build a complete end-to-end machine learning application th
 - **Web*:
   - Flask (Python web server)
   - HTML / CSS / JavaScript (frontend UI)
+  - Postman (check for http requests)
 
 ## How to Run the Project
 
